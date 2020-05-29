@@ -1,3 +1,3 @@
-module github.com/golangatspeed/pkg/sideeffect
+module github.com/golangatspeed/pkg
 
 go 1.13
